@@ -2,9 +2,7 @@
 
 	<name>L'Autre Radio</name>
 	
-	<description>
-	 L’application L'Autre Radio pour smartphones permet d'écouter les programmes de la radio partout en direct ! L'application permet également d'écouter les derniers podcasts de vos émissions préférées.
-	</description>
+	<description>L’application L'Autre Radio pour smartphones permet d'écouter les programmes de la radio partout en direct ! L'application permet également d'écouter les derniers podcasts de vos émissions préférées.</description>
 	
 	<author href="http://www.lautreradio.fr/" email="prog@lautreradio.fr">L'Autre Radio</author>
 	<content src="index.html"/>
